@@ -1,4 +1,4 @@
-#Connection
+# Connection
 ![image info](./App-images/signUp.png)
 
 ![image info](./App-images/signIn.png)
@@ -6,7 +6,7 @@
 ![image info](./App-images/loading.png)
 
 
-#Feed
+# Feed
 
 ![image info](./App-images/feed.png)
 
@@ -14,15 +14,15 @@
 
 ![image info](./App-images/notifications.png)
 
-#Ranking
+# Ranking
 
 ![image info](./App-images/ranking.png)
 
-#Chat
+# Chat
 
 ![image info](./App-images/chat.png)
 
-#profile
+# profile
 
 ![image info](./App-images/gallery.png)
 
@@ -31,7 +31,7 @@
 ![image info](./App-images/settings.png)
 
 
-#Admin panel
+# Admin panel
 ![image info](./App-images/adminPanel1.png)
 
 ![image info](./App-images/adminPanel4.png)
